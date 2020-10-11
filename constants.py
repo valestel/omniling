@@ -1,0 +1,3 @@
+TOP_NGRAMS: int = 400
+MAX_PROB_VALUE = 10 ** 6
+
